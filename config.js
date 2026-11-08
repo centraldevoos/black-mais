@@ -8,7 +8,7 @@ window.CONFIG = {
   // Parcela no cartão: a de R$ 197 no Hub.la (base/central-de-voos/negocio.md).
   PARCELA: "12x de R$ 20,02",
   // Quanto "só o VIP estava" para este público.
-  PRECO_VIP_ANO: 197,
+  PRECO_VIP_ANO: 297,
 
   // Horário das vagas, todo dia, no horário de Brasília.
   // Antes de ABRE: "as vagas ainda estão fechadas, abrem hoje às 19h" com a contagem. Entre ABRE e FECHA: "vagas abertas, fecham em".
